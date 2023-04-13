@@ -1,2 +1,2 @@
-
-You can call this function with two integers, like this:
+def add_numbers(num1, num2):
+    return num1 + num2
