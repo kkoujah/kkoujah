@@ -1,3 +1,2 @@
-def add_numbers(a, b):
-    total = a + b
-    return total
+
+You can call this function by passing in three numbers as arguments:
