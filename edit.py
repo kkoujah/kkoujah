@@ -1,3 +1,3 @@
-def sum_three_numbers(num1, num2, num3):
-    total = num1 + num2 + num3
+def multiply_four_numbers(num1, num2, num3, num4):
+    total = num1 * num2 * num3 * num4
     return total
