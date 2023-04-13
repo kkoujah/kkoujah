@@ -1,2 +1,3 @@
-def sum(a, b):
-  return a + b
+def add_numbers(a, b):
+    total = a + b
+    return total
