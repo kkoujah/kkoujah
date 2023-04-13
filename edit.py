@@ -1,2 +1,3 @@
+```
 
-You can call this function with three arguments, like this:
+You can call this function and pass it three numbers like this:
