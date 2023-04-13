@@ -1,3 +1,3 @@
 ```
 
-You can call this function and pass it three numbers like this:
+This function takes three parameters, `a`, `b`, and `c`, and returns their sum. You can call this function with three numbers like this:
