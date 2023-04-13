@@ -1,2 +1,2 @@
-def add(x, y):
-  return x + y
+
+You can call this function with two integers, like this:
