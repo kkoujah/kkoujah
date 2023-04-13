@@ -1,3 +1,3 @@
-```
-
-To use this function, simply call it and pass in three numbers as arguments, like this:
+def sum_three_numbers(num1, num2, num3):
+    total = num1 + num2 + num3
+    return total
