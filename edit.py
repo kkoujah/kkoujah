@@ -1,3 +1,3 @@
-def multiply_four_numbers(num1, num2, num3, num4):
-    total = num1 * num2 * num3 * num4
+def add_eight_numbers(num1, num2, num3, num4, num5, num6, num7, num8):
+    total = num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8
     return total
