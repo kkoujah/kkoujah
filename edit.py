@@ -1,2 +1,2 @@
-def addNumbers(num1, num2, num3, num4, num5):
-  return num1 + num2 + num3 + num4 + num5;
+def addNumbers(num1, num2):
+  return num1 * num2
